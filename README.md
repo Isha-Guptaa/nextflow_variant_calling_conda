@@ -54,7 +54,7 @@ conda env list
 ![image](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/7ad19de4-d4cb-4f3f-b2ca-21c5cebe5e49)
 
 
-br>
+<br>
 5)Run:
 <br>
 nextflow run vc.nf -with-conda /home/ishagupta/anaconda3/envs/nf_demo
