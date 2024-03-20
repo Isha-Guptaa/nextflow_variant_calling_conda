@@ -2,7 +2,6 @@
 <br>
 NEXTFLOW PIPELINE (VARIANT CALLING) USING CONDA FOR DEPENDENCIES
 <br>
-Input files google drive link: https://drive.google.com/drive/folders/1TMusph7hYywcJTDtQOkSyk9LE_9veRWb?usp=drive_link
 <br>
 PRE-REQUISITE:
 <br>
