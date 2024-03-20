@@ -58,11 +58,15 @@ nextflow -version
 <br>
 3)Given the env.yml recipe file, the environment can be created using the command shown below:
 <br>
+<br>
 conda env create --file env.yml
+<br>
 <br>
 4)Check if the environment was created successfully with the command shown below:
 <br>
+<br>
 conda env list
+<br>
 <br>
 
 
