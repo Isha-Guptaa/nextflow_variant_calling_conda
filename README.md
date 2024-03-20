@@ -35,8 +35,26 @@ nextflow -version
 <br>
 2)Create env.yaml file with content:
 <br>
+
+
 ![Screenshot 2024-03-21 012747](https://github.com/Isha-Guptaa/nextflow_variant_calling_conda/assets/152583125/05373bda-c49f-40fb-ba44-c10ee7348722)
 
 
+<br>
+3)Given the env.yml recipe file, the environment can be created using the command shown below:
+<br>
+conda env create --file env.yml
+<br>
+4)Check if the environment was created successfully with the command shown below:
+<br>
+conda env list
+<br>
 
 
+![image](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/7ad19de4-d4cb-4f3f-b2ca-21c5cebe5e49)
+
+
+br>
+5)Run:
+<br>
+nextflow run vc.nf -with-conda /home/ishagupta/anaconda3/envs/nf_demo
