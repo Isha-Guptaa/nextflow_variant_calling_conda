@@ -34,7 +34,9 @@ source ~/.bashrc
 <br>
 nextflow -version
 <br>
-1) Create a folder named 'data' and download the .fq files from: https://www.ebi.ac.uk/ena/browser/view/SRR9873306
+1) Input files google drive link: https://drive.google.com/drive/folders/1TMusph7hYywcJTDtQOkSyk9LE_9veRWb?usp=drive_link
+<br>
+//data folder consists genome.fa and its indexed file & samples contains the father, mother and progeny genome
 <br>
 2)Create env.yaml file with content:
 <br>
