@@ -35,3 +35,5 @@ nextflow -version
 <br>
 2)Create env.yaml file with content:
 <br>
+![image](https://github.com/Isha-Guptaa/nextflow_variant_calling_conda/assets/152583125/9fe9bc91-5299-4542-8bd4-b6e6051b8d10)
+
