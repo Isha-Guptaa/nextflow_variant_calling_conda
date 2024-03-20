@@ -25,7 +25,7 @@ curl -s https: #get.nextflow.io | bash
 chmod +x nextflow
 <br>
 <br>
-4)To add Nextflow to your system PATH
+4)To add Nextflow to your system PATH:
 <br>
 <br>
 export PATH="/path/to/nextflow:$PATH"
