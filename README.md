@@ -60,6 +60,8 @@ conda env list
 
 
 <br>
-5)Run:
+
+
+11)Run:
 <br>
 nextflow run vc.nf -with-conda /home/ishagupta/anaconda3/envs/nf_demo
