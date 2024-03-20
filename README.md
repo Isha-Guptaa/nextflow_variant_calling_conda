@@ -34,11 +34,11 @@ source ~/.bashrc
 <br>
 nextflow -version
 <br>
-1) Input files google drive link: https://drive.google.com/drive/folders/1TMusph7hYywcJTDtQOkSyk9LE_9veRWb?usp=drive_link
+7) Input files google drive link: https://drive.google.com/drive/folders/1TMusph7hYywcJTDtQOkSyk9LE_9veRWb?usp=drive_link
 <br>
 //data folder consists genome.fa and its indexed file & samples contains the father, mother and progeny genome
 <br>
-2)Create env.yaml file with content:
+8)Create env.yaml file with content:
 <br>
 
 
@@ -46,11 +46,11 @@ nextflow -version
 
 
 <br>
-3)Given the env.yml recipe file, the environment can be created using the command shown below:
+9)Given the env.yml recipe file, the environment can be created using the command shown below:
 <br>
 conda env create --file env.yml
 <br>
-4)Check if the environment was created successfully with the command shown below:
+10)Check if the environment was created successfully with the command shown below:
 <br>
 conda env list
 <br>
